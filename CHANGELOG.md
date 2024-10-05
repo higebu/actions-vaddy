@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.4.5](https://github.com/higebu/vaddy-action/compare/v1.4.4...v1.4.5) (2024-10-05)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @actions/core to v1.11.0 ([4bb987e](https://github.com/higebu/vaddy-action/commit/4bb987e1207c6c9f95071a6788bf5719d73c31fb))
+* **deps:** update dependency @actions/core to v1.11.1 ([ffd80d3](https://github.com/higebu/vaddy-action/commit/ffd80d36422643a21ad8440acf0f9eb76938b8f0))
+* **deps:** update dependency @vercel/ncc to v0.38.2 ([a31428b](https://github.com/higebu/vaddy-action/commit/a31428b74fb200f5efc5463505d7dda1bafef68f))
+* **deps:** update dependency eslint to v9.11.0 ([45fcf5d](https://github.com/higebu/vaddy-action/commit/45fcf5def0a3d8e349f54acf562e6a1daaeaee30))
+* **deps:** update dependency eslint to v9.11.1 ([264220a](https://github.com/higebu/vaddy-action/commit/264220a4efd453b483f5868c4a51867a15c094be))
+* **deps:** update dependency eslint to v9.12.0 ([33e8124](https://github.com/higebu/vaddy-action/commit/33e8124a125846f9b3b70dec89db9c0ada1c4f03))
+
 ## [1.4.4](https://github.com/higebu/vaddy-action/compare/v1.4.3...v1.4.4) (2024-09-18)
 
 
